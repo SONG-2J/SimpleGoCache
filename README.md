@@ -2,7 +2,7 @@
 ```
 SimpleGOCache/
     |--cachepb/
-        |--cachepb.pb.go    // cachepb.protp文件转出的go文件
+        |--cachepb.pb.go    // cachepb.proto文件转出的go文件
     
     |--consistenthash/
         |--consistenthash   // 一致性hash算法
