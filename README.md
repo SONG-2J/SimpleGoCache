@@ -5,7 +5,7 @@ SimpleGOCache/
         |--cachepb.pb.go    // cachepb.proto文件转出的go文件
     
     |--consistenthash/
-        |--consistenthash   // 一致性hash算法
+        |--consistenthash.go   // 一致性hash算法
     
     |--lru/
         |--lru.go           // lru 缓存淘汰策略
