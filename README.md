@@ -20,7 +20,7 @@ SimpleGOCache/
         |--peers.go         // 抽象出2个接口，PeerPicker和PeerGetter
     
     |--singleflight/
-        |--singleflight     // 防止缓存击穿
+        |--singleflight.go     // 防止缓存击穿
 
     |--main.go              // 分布式缓存测试
 ```
